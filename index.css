@@ -270,3 +270,10 @@ body {
     font-size: 70px;
     margin: 150px;
 }
+
+@media (max-width: 600px) {
+    .valentine {
+        font-size: 10vw; /* Aumenta ligeramente el tamaño en móviles pequeños */
+        margin: 10px auto; /* Reduce el margen en móviles */
+    }
+}
