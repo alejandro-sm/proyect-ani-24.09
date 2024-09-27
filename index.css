@@ -277,3 +277,12 @@ body {
         margin: 10px auto; /* Reduce el margen en móviles */
     }
 }
+
+.anniversary-photo {
+    display: block;
+    margin: 20px auto; /* Centra la imagen horizontalmente */
+    width: 250px; /* Ajusta el ancho según tu preferencia */
+    height: auto; /* Mantiene la proporción de la imagen */
+    border-radius: 10px; /* Bordes redondeados opcionales */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+}
